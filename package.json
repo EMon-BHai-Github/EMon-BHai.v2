@@ -10,7 +10,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://raw.githubusercontent.com/EMon-BHai-Github/EMon-BHai.v2/main/package.json.git"
+        "url": "git+https://raw.githubusercontent.com/EMon-BHai-Github/EMon-BHai.v2/main/package.json"
     },
     "author": "EMon-BHai",
     "license": "GPL-3.0",
