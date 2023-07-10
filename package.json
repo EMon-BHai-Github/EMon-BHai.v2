@@ -1,8 +1,8 @@
 {
-    "name": "Ryo",
+    "name": "EMon-BHai",
     "version": "1.2.14",
-    "description": "Mua File Bot Liên Hệ Facebook !!",
-    "main": "mirai.js",
+    "description": "Bot Bypass by EMon-BHai !!",
+    "main": "EMon-BHai.js",
     "scripts": {
         "start": "node index",
         "login": "node login",
@@ -10,9 +10,9 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/D-Jukie/miraiv2.git"
+        "url": "git+https://raw.githubusercontent.com/EMon-BHai-Github/EMon-BHai.v2/main/package.json.git"
     },
-    "author": "D-Jukie",
+    "author": "EMon-BHai",
     "license": "GPL-3.0",
     "dependencies": {
         "simple-youtube-api": "",
